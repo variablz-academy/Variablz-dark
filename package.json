@@ -1,0 +1,21 @@
+{
+  "name": "variablz-dark",
+  "displayName": "variablz-dark",
+  "description": "dark theme of variablz",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "variablz dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/variablz dark-color-theme.json"
+      }
+    ]
+  }
+}
