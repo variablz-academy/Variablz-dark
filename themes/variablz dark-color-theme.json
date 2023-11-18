@@ -45,7 +45,11 @@
 		"tab.hoverForeground": "#ffffff",
 		"tab.inactiveBackground": "#323232",
 
-		"debugIcon.breakpointForeground": "#a22d75"
+		"debugIcon.breakpointForeground": "#a22d75",
+
+		"terminal.background": "#323232"
+
+		
 		
 	
 		

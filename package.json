@@ -2,7 +2,7 @@
   "name": "variablz-dark",
   "displayName": "variablz-dark",
   "description": "dark theme of variablz",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url":"https://github.com/variablz-academy/variablz-dark_VSCodeTheme.git"
@@ -14,6 +14,14 @@
   "categories": [
     "Themes"
   ],
+  "icon": "resources/variablz logo 128px.png",
+  "galleryBanner": {
+    "color": "#a22d75",
+    "theme": "dark",
+    "imageURL": "https://github.com/variablz-academy/variablz-dark_VSCodeTheme/blob/master/resources/Variablz%20dark%20theme.png"
+
+  },
+  
   "contributes": {
     "themes": [
       {
