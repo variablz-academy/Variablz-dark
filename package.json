@@ -3,6 +3,10 @@
   "displayName": "variablz-dark",
   "description": "dark theme of variablz",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/variablz-academy/variablz-dark_VSCodeTheme.git"
+  },
   "engines": {
     "vscode": "^1.84.0"
   },
