@@ -1,3 +1,14 @@
+
+/*
+Theme Name: Variablz Dark
+Publisher: Variablz
+Author: Parthiban Kannan
+Launched Date: 18-Nov-2023
+
+Updates: Check out Release file 
+*/
+
+
 {
 	"name": "variablz dark",
 	"colors": {
@@ -65,7 +76,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#4CCB5C"
 			}
 		},
 		{
